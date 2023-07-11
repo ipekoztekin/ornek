@@ -1,3 +1,7 @@
 Ben Azra Şimşek Mersinde yaşıyorum
 20 yaşındayım.
+<<<<<<< HEAD
 selam ben azra dosyada değişiklik yaptım.
+=======
+selam azra senin dosyana eklemelr yaptım
+>>>>>>> 18092ebce2799d4cfadb3ceb458bb94ea81bb913
